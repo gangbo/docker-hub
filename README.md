@@ -3,8 +3,8 @@
 docker hub
 
 ## tag
-`docker build hankdai/php:fpm-8.1-1.0`
+`docker build -t hankdai/php:8.1-fpm-1.1 .`
 
 ## push
 
-`docker push hankdai/php:fpm-8.1-1.0`
+`docker push hankdai/php:8.1-fpm-1.1`
